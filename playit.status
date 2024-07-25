@@ -1,34 +1,434 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1721879653589 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1721879872300 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721879656627 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721879875340 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721879659684 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721879878397 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721879662757 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721879881450 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721879665846 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721879884483 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721879668913 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721879887563 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1721879671971 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1721879890633 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721879893684 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721879896758 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721879899823 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721879902863 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721879905895 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721879908962 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721879911998 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721879915039 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721879918089 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721879921124 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721879924175 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721879927226 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721879930273 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721879933336 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721879936397 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721879939463 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721879942520 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721879945609 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721879948649 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721879951682 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721879954754 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721879957858 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721879960901 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721879963965 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721879967015 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721879970050 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721879973108 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721879976155 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721879979209 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721879982291 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721879985351 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721879988407 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721879991436 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721879994471 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721879997514 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721880000594 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721880003893 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721880007086 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721880010133 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721880013167 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721880016271 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721880019313 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721880022397 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721880025488 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721880028613 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721880031741 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721880034865 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721880037969 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721880041039 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721880044184 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721880049718 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721880055938 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721880059103 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721880062237 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721880065277 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721880068319 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721880071398 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721880074458 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721880077511 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721880080559 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721880083602 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721880086653 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721880089686 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721880092812 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721880095872 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721880098944 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721880102017 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721880105062 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721880108105 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721880111139 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721880114216 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721880117332 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721880120454 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721880123486 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721880126552 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721880129641 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721880132703 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721880135746 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721880138793 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+death-mercedes.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1721880141857 tunnel running, 1 tunnels registered
 
 
 TUNNELS
